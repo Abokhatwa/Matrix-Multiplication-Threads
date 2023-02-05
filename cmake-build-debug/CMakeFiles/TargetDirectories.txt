@@ -1,0 +1,5 @@
+/Users/saeedabokhatwa/CLionProjects/Threads/cmake-build-debug/CMakeFiles/Threads.dir
+/Users/saeedabokhatwa/CLionProjects/Threads/cmake-build-debug/CMakeFiles/project.dir
+/Users/saeedabokhatwa/CLionProjects/Threads/cmake-build-debug/CMakeFiles/matmult.dir
+/Users/saeedabokhatwa/CLionProjects/Threads/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/saeedabokhatwa/CLionProjects/Threads/cmake-build-debug/CMakeFiles/rebuild_cache.dir
